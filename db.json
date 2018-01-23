@@ -1,0 +1,238 @@
+{
+  "persons": [
+    {
+      "userId": 1,
+      "lastName": "Suvaks",
+      "firstName": "Lea",
+      "middleName": "Fur",
+      "city": "Sydney",
+      "country": "AU",
+      "weather": {
+        "location": "Sydney",
+        "temp_min": 26,
+        "temp_max": 29,
+        "lat": -33.85,
+        "lon": 151.22
+      },
+      "id": 1
+    },
+    {
+      "lastName": "dfg",
+      "firstName": "dfg",
+      "middleName": "fdg",
+      "city": "Sydney",
+      "country": "AU",
+      "id": 2,
+      "weather": {
+        "location": "Sydney",
+        "temp_min": 30,
+        "temp_max": 31,
+        "lat": -33.85,
+        "lon": 151.22
+      },
+      "userId": 3
+    },
+    {
+      "lastName": "dfg1",
+      "firstName": "dfg1",
+      "middleName": "1",
+      "city": "Manila",
+      "country": "PH",
+      "id": 3,
+      "weather": {
+        "location": "Manila",
+        "temp_min": 25,
+        "temp_max": 25,
+        "lat": 14.59,
+        "lon": 120.98
+      },
+      "userId": 3
+    },
+    {
+      "lastName": "Yu",
+      "firstName": "Mike",
+      "middleName": "Sy",
+      "city": "Manila",
+      "country": "PH",
+      "id": 5,
+      "weather": {
+        "location": "Manila",
+        "temp_min": 29,
+        "temp_max": 29,
+        "lat": 14.59,
+        "lon": 120.98
+      },
+      "userId": 1
+    },
+    {
+      "lastName": "Wade",
+      "firstName": "Dean",
+      "middleName": "Lim",
+      "city": "Melbourne",
+      "country": "AU",
+      "id": 6,
+      "weather": {
+        "location": "Melbourne",
+        "temp_min": 22,
+        "temp_max": 24,
+        "lat": -37.81,
+        "lon": 144.96
+      },
+      "userId": 1
+    },
+    {
+      "userId": 3,
+      "lastName": "333",
+      "firstName": "333",
+      "middleName": "333",
+      "city": "Tokyo",
+      "country": "JP",
+      "weather": {
+        "location": "Tokyo",
+        "temp_min": 2,
+        "temp_max": 5,
+        "lat": 35.68,
+        "lon": 139.76
+      },
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "lastName": "Hannibal",
+      "firstName": "Leo",
+      "middleName": "Lee",
+      "city": "Manila",
+      "country": "PH",
+      "weather": {
+        "location": "Manila",
+        "temp_min": 29,
+        "temp_max": 29,
+        "lat": 14.59,
+        "lon": 120.98
+      },
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "lastName": "winer",
+      "firstName": "howie",
+      "middleName": "dy",
+      "city": "Chicago",
+      "country": "US",
+      "weather": {
+        "location": "Chicago",
+        "temp_min": 5,
+        "temp_max": 10,
+        "lat": 41.88,
+        "lon": -87.62
+      },
+      "id": 9
+    },
+    {
+      "lastName": "123",
+      "firstName": "boy",
+      "middleName": "Fur",
+      "city": "Davao",
+      "country": "PH",
+      "id": 10,
+      "weather": {
+        "location": "Davao",
+        "temp_min": 27,
+        "temp_max": 27,
+        "lat": 6.81,
+        "lon": 125.71
+      },
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "lastName": "123",
+      "firstName": "boy",
+      "middleName": "Fur",
+      "city": "Davao",
+      "country": "PH",
+      "weather": {
+        "location": "Davao",
+        "temp_min": 27,
+        "temp_max": 27,
+        "lat": 6.81,
+        "lon": 125.71
+      },
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "lastName": "yu",
+      "firstName": "mike",
+      "middleName": "",
+      "city": "Tokyo",
+      "country": "JP",
+      "weather": {
+        "location": "Tokyo",
+        "temp_min": -1,
+        "temp_max": 1,
+        "lat": 35.68,
+        "lon": 139.76
+      },
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "glenn",
+      "password": "12345",
+      "lastName": "Buligs",
+      "firstName": "Glenn"
+    },
+    {
+      "id": 2,
+      "username": "miguey",
+      "password": "67890",
+      "lastName": "Buligz",
+      "firstName": "Migs"
+    },
+    {
+      "username": "111",
+      "password": "111",
+      "lastName": "Lee",
+      "firstName": "Jim",
+      "id": 3
+    },
+    {
+      "username": "glenn",
+      "password": "123445",
+      "lastName": "",
+      "firstName": "",
+      "id": 4
+    },
+    {
+      "username": "mamac",
+      "password": "123456",
+      "lastName": "mamac",
+      "firstName": "boy",
+      "id": 5
+    },
+    {
+      "username": "",
+      "password": "",
+      "lastName": "",
+      "firstName": "",
+      "id": 6
+    },
+    {
+      "username": "456",
+      "password": "456",
+      "lastName": "",
+      "firstName": "",
+      "id": 7
+    },
+    {
+      "username": "glenn1",
+      "password": "123456",
+      "lastName": "",
+      "firstName": "",
+      "id": 8
+    }
+  ]
+}
